@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mirrorTailwind/static/css/main.905fde00.chunk.css",
+    "main.js": "/mirrorTailwind/static/js/main.1b204f36.chunk.js",
+    "main.js.map": "/mirrorTailwind/static/js/main.1b204f36.chunk.js.map",
+    "runtime-main.js": "/mirrorTailwind/static/js/runtime-main.b131e499.js",
+    "runtime-main.js.map": "/mirrorTailwind/static/js/runtime-main.b131e499.js.map",
+    "static/js/2.78e4cd8b.chunk.js": "/mirrorTailwind/static/js/2.78e4cd8b.chunk.js",
+    "static/js/2.78e4cd8b.chunk.js.map": "/mirrorTailwind/static/js/2.78e4cd8b.chunk.js.map",
+    "index.html": "/mirrorTailwind/index.html",
+    "static/css/main.905fde00.chunk.css.map": "/mirrorTailwind/static/css/main.905fde00.chunk.css.map",
+    "static/js/2.78e4cd8b.chunk.js.LICENSE.txt": "/mirrorTailwind/static/js/2.78e4cd8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b131e499.js",
+    "static/js/2.78e4cd8b.chunk.js",
+    "static/css/main.905fde00.chunk.css",
+    "static/js/main.1b204f36.chunk.js"
+  ]
+}
